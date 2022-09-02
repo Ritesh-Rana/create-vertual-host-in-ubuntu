@@ -9,6 +9,10 @@ Step 2: `sudo cp 000-default.conf YourServerName.conf`
 Step 3: `sudo a2ensite YourServerName.conf`
 
 Step 4: `sudo nano YourServerName.conf`
+      
+      In step 4 add below lines :-
+      ServerName myserverurl.com
+      ServerAlias www.myserverurl.com
 
 Step 5: `cd /etc/`
 
