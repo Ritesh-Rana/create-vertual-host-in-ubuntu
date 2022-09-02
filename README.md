@@ -14,4 +14,4 @@ Step 5: `cd /etc/`
 
 Step 6: `sudo nano hosts`
 
-Step 7: add 127.0.0.1 and url of yourserver (Example - myserverurl.com)
+Step 7: add `127.0.0.1    myserverurl.com` in the list.
