@@ -2,7 +2,7 @@
 
 Enter following cmd
 
-Step 1: `cd /etc/apache2/site-available/`
+Step 1: `cd /etc/apache2/sites-available/`
 
 Step 2: `sudo cp 000-default.conf YourServerName.conf`
 
