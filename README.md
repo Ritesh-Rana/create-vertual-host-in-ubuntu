@@ -1,5 +1,7 @@
 # create-vertual-host-in-ubuntu
 
+
+Here i given name demo of server you can choose any:
 Enter following cmd
 
 Step 1: `cd /etc/apache2/sites-available/`
@@ -10,7 +12,7 @@ Step 3: `sudo a2ensite demo.conf`
 
 Step 4: `sudo nano demo.conf`
       
-      In step 4 add below lines :-
+      In step 4 add below lines in demo.conf file:-
       ServerName demo.com
       ServerAlias www.demo.com
 
